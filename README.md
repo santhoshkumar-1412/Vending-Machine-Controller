@@ -102,7 +102,7 @@ The following conditions are implemented:
 
 The following diagram represents the Moore FSM architecture, state transitions, and corresponding output conditions of the vending machine controller.
 
-![Moore FSM State Diagram and State Transition Table](screenshots/moore_fsm_state_diagram.png)
+![Moore FSM State Diagram and State Transition Table](screenshots/moore_fsm_state_diagram.jpeg)
 
 **Output Conditions:**
 
