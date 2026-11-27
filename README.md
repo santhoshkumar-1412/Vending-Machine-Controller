@@ -418,9 +418,8 @@ Potential extensions to this project include:
 
 RTL Design | Digital Design | VLSI Engineering
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
+- GitHub: [@santhoshkumar-1412](https://github.com/santhoshkumar-1412) 
+- LinkedIn: [@santhosh-kumar-n-a](https://linkedin.com/in/santhosh-kumar-n-a-26b72532b)
 ---
 
 ## 13. License
